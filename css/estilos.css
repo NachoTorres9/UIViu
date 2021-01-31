@@ -1,8 +1,8 @@
-﻿#images{
+﻿.images{
     text-align:center; 
-    align-items:right;
+    
 }
-#images a{
+.images a{
     margin:0px 20px;
     display:inline-block;
     text-decoration:none;
